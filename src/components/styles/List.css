@@ -1,0 +1,45 @@
+.utility {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.blog-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px 30px;
+  }
+  
+  .blog {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    margin: 8px;
+    padding:10px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+  }
+
+  .blog img {
+    height: 100px
+  }
+
+  .description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height:80px;
+  }
+
+  .blog-card {
+    text-decoration: none;
+  }
+
+  .blog-card:hover {
+    transform: scale(1.05);
+    transition: 0.2s ease-in-out;
+  }

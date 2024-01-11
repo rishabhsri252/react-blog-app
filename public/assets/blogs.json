@@ -1,0 +1,827 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Basics of Web",
+      "author": "Rishabh123",
+      "thumbnail": "../../assets/thumbnails/web_dev-blog.png",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        1,
+        "4"
+      ],
+      "category": "Web Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        },
+        {
+          "id": 6,
+          "comment": "latest comment",
+          "author": "Rishabh123",
+          "dateOfComment": "2023-08-25T06:37:54.252Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Basics of App",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/app_dev-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        "4",
+        "1"
+      ],
+      "category": "App Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        },
+        {
+          "id": 6,
+          "comment": "new comment",
+          "author": "Rishabh123",
+          "dateOfComment": "2023-08-25T10:02:22.438Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Intro to Data Science",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/data_science-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3,
+        "1"
+      ],
+      "category": "Data Science",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        },
+        {
+          "id": 6,
+          "comment": "new comment",
+          "author": "Rishabh123",
+          "dateOfComment": "2023-08-25T10:57:26.360Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cyber Security",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/cyber_security-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3,
+        "1",
+        "3",
+        "2",
+        "5",
+        "2",
+        "1"
+      ],
+      "category": "Cyber Security",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Basics of Web",
+      "author": "Rishabh123",
+      "thumbnail": "../../assets/thumbnails/web_dev-blog.png",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "Web Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Basics of App",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/app_dev-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "App Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Intro to Data Science",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/data_science-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "Data Science",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        },
+        {
+          "id": 6,
+          "comment": "new comment\n",
+          "author": "Rishabh123",
+          "dateOfComment": "2023-08-25T06:39:20.885Z"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Cyber Security",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/cyber_security-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "Cyber Security",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Basics of Web",
+      "author": "Rishabh123",
+      "thumbnail": "../../assets/thumbnails/web_dev-blog.png",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "Web Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Basics of App",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/app_dev-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "App Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Intro to Data Science",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/data_science-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "Data Science",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Cyber Security",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/cyber_security-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "category": "Cyber Security",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Basics of Web",
+      "author": "Rishabh123",
+      "thumbnail": "../../assets/thumbnails/web_dev-blog.png",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "Web Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Basics of App",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/app_dev-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "App Development",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Intro to Data Science",
+      "author": "Rishabh",
+      "thumbnail": "../../assets/thumbnails/data_science-blog.jpg",
+      "description": "blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br>blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. <br> blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs.blog, in full Web log or Weblog, online journal where an individual, group, or corporation presents a record of activities, thoughts, or beliefs. Some blogs operate mainly as news filters, collecting various online sources and adding short comments and Internet links.",
+      "ratings": [
+        4,
+        5,
+        3,
+        4,
+        4,
+        5,
+        5,
+        3
+      ],
+      "category": "Data Science",
+      "creationDate": "2019-07-04T13:33:03.069Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "random"
+        },
+        {
+          "id": 2,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "Rishabh123"
+        },
+        {
+          "id": 3,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "anonymous"
+        },
+        {
+          "id": 4,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user321"
+        },
+        {
+          "id": 5,
+          "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+          "dateOfComment": "2019-07-04T13:33:03.069Z",
+          "author": "user222"
+        },
+        {
+          "id": 6,
+          "comment": "new comment",
+          "author": "Rishabh123",
+          "dateOfComment": "2023-08-25T05:21:04.168Z"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Intro to ReactJS",
+      "author": "Rishabh123",
+      "thumbnail": "https://source.unsplash.com/random/?Intro to ReactJS",
+      "description": "ReactJS uses a declarative paradigm that allows for applications to be both effective and flexible. It creates simple views for each state in your application and efficiently updates and renders just the right component as your data changes. The declarative view makes your code more predictable and easier to debug",
+      "ratings": [
+        "5"
+      ],
+      "category": "Web Development",
+      "creationDate": "2023-08-25T10:58:05.907Z",
+      "comments": [
+        {
+          "id": 1,
+          "comment": "Nice blog",
+          "author": "Rishabh123",
+          "dateOfComment": "2023-08-25T10:59:23.161Z"
+        },
+        {
+          "id": 2,
+          "comment": "New comment",
+          "author": "Rishabh123",
+          "dateOfComment": "2024-01-10T11:40:14.075Z"
+        }
+      ]
+    }
+  ]
+}
